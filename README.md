@@ -1,2 +1,2 @@
-FOodAPI
+Main food-focus api 
 
